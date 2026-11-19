@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Je suis un étudiant en deuxième anné d'informatique
 <!--
 **hugomarieditdalet/hugomarieditdalet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
